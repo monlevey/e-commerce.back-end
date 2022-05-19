@@ -30,9 +30,11 @@ router.get('/:id', (req, res) => {
     include: [
       {
         model: Category,
+        as: "category_id"
       },
       {
         model: Tag,
+        as: "tag_id"
       }
     ]
   }).then((product) => {

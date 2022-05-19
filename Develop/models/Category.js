@@ -9,7 +9,7 @@ Category.init(
     // define columns
     category_name: {
       type: DataTypes.STRING,
-      allowNull: false
+      allowNull: false,
     }
   },
   {

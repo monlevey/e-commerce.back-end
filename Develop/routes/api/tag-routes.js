@@ -14,8 +14,6 @@ router.get('/', (req, res) => {
  }).then((tags) => {
    res.json(tags);
  })
-    
-   
 });
 
 router.get('/:id', (req, res) => {

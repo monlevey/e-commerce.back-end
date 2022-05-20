@@ -42,7 +42,8 @@ Please install all packages before starting. Run both schema files in the mysql 
 To find out more information about this repo please visit my github page https://github.com/monlevey/e-commerce.back-end
 
 ## Video Link
-
+Visit my youtube link to watch the walkthrough video
+ https://youtu.be/0k4htu3mErY 
 
 ## References
 https://stackoverflow.com/
